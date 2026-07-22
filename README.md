@@ -13,8 +13,8 @@ The output is a ranked list of heroes with their **Ban Value**. A higher value m
 ## How to use
 
 1. Open your OpenDota profile in browser.
-2. Go to **Heroes** tab
-3. Choose current **Patch**
+2. Go to **Heroes** tab and stay on first page of heroes list.
+3. Choose current **Patch**.
 4. Press **F12** to open Developer Tools.
 5. Go to the **Console** tab.
 6. Paste the script into the console and press **Enter** or hit **Run** button.
